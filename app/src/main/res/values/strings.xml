@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KotlinTv</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dialog_option">%1$dp - %2$s</string>
+    <string name="item_download_percentage">Size: %1$s | Progress: %2$d %%</string>
+
+    <string name="download_start_error">Failed to start download</string>
+    <string name="exo_download_queued">Download in queue</string>
+    <string name="exo_download_stopped">Download stopped</string>
+    <string name="exo_download_restarting">Download restarting</string>
+
+    <string name="track_selection_title">Video Quality</string>
+</resources>

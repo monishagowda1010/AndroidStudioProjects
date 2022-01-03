@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEMO_PROJ/AllTeam-master/AllTeam-master/app/src/main/res/drawable/ic_pause_24dp.xml" value="0.175" />
+        <entry key="..\:/DEMO_PROJ/AllTeam-master/AllTeam-master/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/DEMO_PROJ/AllTeam-master/AllTeam-master/app/src/main/res/layout/activity_online_video_player.xml" value="0.13895394223263074" />
+        <entry key="..\:/MyProjs/New folder/TeamOne-master/TeamOne-master/app/src/main/res/layout/activity_main.xml" value="0.16018518518518518" />
+        <entry key="..\:/MyProjs/New folder/TeamOne-master/TeamOne-master/app/src/main/res/layout/big_horizontal_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/POC/Sample_App_2_tasks/TeamOne-master/TeamOne-master/app/src/main/res/drawable/selected_bg.xml" value="0.1" />
+        <entry key="..\:/POC/Sample_App_2_tasks/TeamOne-master/TeamOne-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/POC/Sample_App_2_tasks/TeamOne-master/TeamOne-master/app/src/main/res/layout/fragment_guide.xml" value="0.1" />
+        <entry key="..\:/SampleApps/AllTeam-final/app/src/main/res/layout/activity_main.xml" value="0.2953125" />
+        <entry key="..\:/SampleApps/AllTeam-master/app/src/main/res/layout/activity_online_video_player.xml" value="0.22" />
+        <entry key="..\:/SampleApps/AllTeam-master/app/src/main/res/layout/item_download_status.xml" value="0.22666666666666666" />
+        <entry key="..\:/SampleApps/AllTeam-master/app/src/main/res/layout/player_controller.xml" value="0.22666666666666666" />
+        <entry key="..\:/SampleApps/AllTeam-master/app/src/main/res/layout/video_list_activity_main.xml" value="0.33" />
+        <entry key="..\:/SampleApps/AllTeam-master/app/src/main/res/menu/popup_menu.xml" value="0.303125" />
+        <entry key="..\:/Users/26133.TELXSI/Downloads/AllTeam-final-progressbar/AllTeam-final/app/src/main/res/layout/landscape_layout.xml" value="0.18359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
